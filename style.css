@@ -1,0 +1,170 @@
+
+*{
+	margin :0; 
+	padding :0;
+	text-decoration:none;
+	list-style :none;
+	
+	
+}
+body { font-family: 'Lato', sans-serif; font-weight: 400;}
+.container {width : 960px; margin : 0 auto;}
+.floatleft{ float:left;}
+.floatright{ float:right;}
+.headersection {
+  background: black none repeat scroll 0 0;
+  height: 50px;
+}
+.subcribe_us {color:#fff; }
+.subcribe_us i {
+  background: orange none repeat scroll 0 0;
+  font-size: 24px;
+  height: 24px;
+  width: 24px;
+  padding-top: 1px;
+  box-sizing: border-box;
+}
+.subcribe_us p{display:inline-block; padding:12px;}
+.bannersection {
+  background: #771d35 none repeat scroll 0 0;
+  box-sizing: border-box;
+  height: 372px;
+  padding-top: 42px;
+}
+.slogan{float:left; width:50%}
+.slogan h1{color:#fff; font-weight:bold;}
+.slogan p {
+  color: #dcdcdc;
+  margin: 47px 40px 0 0 ;
+  text-align: justify;
+}
+.bannerimage {float:right; width:50%}
+.bannerimage img {
+  border: 5px solid #4D5060;
+  width: 100%;
+  border-radius: 13px;
+}
+.our_work {
+  background: #590e25 none repeat scroll 0 0;
+  color: #fff;
+  height: 42px;
+  margin-top: 76px;
+  padding: 7px;
+  width: 272px;
+}
+.our_work i {
+  background: #ffa500;
+  border-radius: 8px;
+  height: 21px;
+  padding: 8px;
+  width: 16px;
+  font-size: 23px;
+  color:#fff;
+}
+.our_work i  a{  }
+.kotha{position:absolute; left:800px; top:335px;  box-sizing:border-box; background:#B2B6B9; opacity:0.4; cursor:pointer; border-radius:5px;}
+.kotha h3{}
+.kotha p{}
+.menu{  background:#EDEDED; height:51px;}
+.leftmenu{float:left;}
+.rightmenu{float:right;}
+.leftmenu ul{}
+.leftmenu ul li{  display:inline-block;}
+.leftmenu ul li a{ display:block; padding:15px; background:#E4E4E4; color:grey; font-weight:bold; }
+.leftmenu ul li a:hover{color: orange;}
+.rightmenu{float:right; padding-top:15px;}
+.rightmenu input[type="text"] {padding:5px;}
+.rightmenu input[type="submit"] {
+  background: black none repeat scroll 0 0;
+  border: 1px solid black;
+  color: #fff;
+  font-weight: bold;
+  padding: 3px;
+}
+
+.content{overflow:hidden;}
+.content_left{float:left; width:700px;}
+.portfolio_description{}
+.portfolio_updates{background:#B1B5B6; margin: 10px 0 0 0; height:50px; font-size:24px; font-weight:bold;padding:10px;box-sizing:border-box ; color:#fff;}
+.portfolio_updates i {
+  background: #ffa500 none repeat scroll 0 0;
+  height: 34px;
+  width: 27px;
+  padding: 5px;
+  box-sizing: border-box;
+}
+.portfolio_image {
+  background: #e4f1f4 none repeat scroll 0 0; 
+  height : 199px;
+  border-bottom: 5px solid #598B8D;
+}
+.portfolio_image img {
+  padding: 17 3 0 7px;
+}
+ 
+
+}
+.allpost{box-sizing:border-box;}
+.post{float:left; width : 320px;  text-align:justify;background:#F0F2F3;  margin : 10 30 0 0;box-sizing:border-box;}
+.post h2 {background:#DFDFDF; text-align:center; padding-bottom:5px; color:#DD77A3;}
+.post p {
+  box-sizing: border-box;
+  padding: 0 18px;
+}
+.content_right {
+  float: right;
+  line-height: 46px;
+  margin-left: 20px;
+  margin-top: 10px;
+  width: 240px;
+}
+.latest_portfolio{}
+.latest_portfolio i{}
+ .latest_portfolio h2 {
+  background: #e3dcc0 none repeat scroll 0 0;
+  height: 48px;
+  padding: 0 10;
+}
+.points {
+  background: #eee8cb none repeat scroll 0 0;
+  border-bottom: 5px solid grey;
+  height: 195px;
+  padding: 20px;
+}
+
+.popular_portfolio h2 {background: #e3dcc0 none repeat scroll 0 0;
+  height: 48px;
+  padding: 0 10;
+  margin-top:35px;
+  }
+  .points2{ background: #eee8cb none repeat scroll 0 0;
+  height: 195; border-bottom :5px solid grey;  padding: 20px;}
+  .footer_style{}
+ .footer_area {
+  background: #242423 none repeat scroll 0 0;
+  color: #fff;
+  height: 300px;
+  padding-top: 35px;
+  margin-top: 21px;
+}
+  .comment{width:300px; float:left;}
+  .comment h2{background:#771D35;  margin-right: 35px; padding:10px; margin-bottom:10px;}
+  .comment ul{ text-decoration:none;}
+  .comment ul li{display:block;}
+.comment ul li a {
+  border-bottom: 1px solid #fff;
+  color: #fff;
+  display: block;
+  padding-bottom: 25px;
+  margin-right: 35px;
+}
+  .pb{width:300px; float:left; text-align:justify;}
+.pb h2 {
+  background: #771d35 none repeat scroll 0 0;
+  margin-bottom: 10px;
+  margin-right: 35px;
+  padding: 10px;
+  width: 278px;
+}
+.pb p {margin-bottom:20px;}
+  
